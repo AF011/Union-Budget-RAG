@@ -13,4 +13,8 @@ dependencies = [
     "pypdf2>=3.0.1",
     "notebook>=7.5.2",
     "pypdf>=6.6.0",
+    "pandas>=2.3.3",
+    "unstructured[all-docs]>=0.18.31",
+    "rank-bm25>=0.2.2",
+    "sentence-transformers>=5.2.2",
 ]
